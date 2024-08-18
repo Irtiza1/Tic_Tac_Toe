@@ -7,7 +7,7 @@ A simple Tic Tac Toe game built with HTML, CSS, JAVASCRIPT.
 - **Classic 3x3 Grid:** Play the classic Tic Tac Toe game.
 - **Two-player Mode:** Play against a friend in a local multiplayer setup.
 - **Responsive Design:** Works well on both mobile and desktop devices.
-
+- [Link] (https://rawcdn.githack.com/Irtiza1/Tic_Tac_Toe/7d6fcdde283d639ff50d8d8a467b7c7ead2e4583/tictactoe/main.html)
 ## How to Play
 
 1. Clone the repository:
